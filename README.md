@@ -11,7 +11,7 @@ E por fim disponibilizar recurso, para que a empresa consiga realizar a prediç�
 ### Tecnologias utilizadas
 
 <p align="center">
-  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/overview-solucao.png" alt="Overview"height=400px >
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/tecnologias.png" alt="Overview"height=400px >
 </p>
 
 Para resolver esse problema, foi construído uma solução completa para armazenamento, gestão e automatização de fluxo de dados, utilizando as tecnologias como:
@@ -20,6 +20,10 @@ Para resolver esse problema, foi construído uma solução completa para armazen
 * Docker.
 * Minio.
 * Mysql Server.
+
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/overview-solucao.png" alt="Overview"height=400px >
+</p>
 
 Além de explorar um suite poderoso de tecnologias, para trabalhar com Análise de Dados e Machine Learning, que são:
 
