@@ -27,7 +27,7 @@ Um overview da solução, criado em um ambiente On-Premise para desenvolvimento 
   <img src="https://github.com/villani31/analise-rh/blob/main/imagens/overview-solucao.png" alt="Overview"height=400px >
 </p>
 
-Além de explorar um suite poderoso de tecnologias, para trabalhar com Análise de Dados e Machine Learning, que são:
+Além de explorar um suite poderoso de tecnologias, para trabalhar com Análise de Dados e Machine Learning, conforme já ilustrado na imagem a cima, que são:
 
 * Pandas.
 * Scikit-Learn.
