@@ -1,6 +1,6 @@
-# analise-rh
+# Analise dos Dados de Recuso Humanos
 
-Um projeto real de Data Science, que passou por todas as etapas, pude resolver o problema de como utilizar os dados para responder questões importantes, permitindo que uma empresa tenho conhecimento sobre seu funcionário:
+Um projeto real de Data Science, faz uma analise dos dados de empregados de uma empresa, que passou por todas as etapas, pude resolver o problema de como utilizar os dados para responder questões importantes, permitindo que uma empresa tenho conhecimento sobre seu funcionário:
 
 * Quais são os fatores que influenciam para um colaborador deixar a empresa?.
 * Como reter pessoas?.
