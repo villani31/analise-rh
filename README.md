@@ -21,6 +21,8 @@ Para resolver esse problema, foi construído uma solução completa para armazen
 * Minio.
 * Mysql Server.
 
+Um overview da solução, criado em um ambiente On-Premise para desenvolvimento desse projeto, mas a soulução pode ser também desenvolvida em ambientes Cloud.
+
 <p align="center">
   <img src="https://github.com/villani31/analise-rh/blob/main/imagens/overview-solucao.png" alt="Overview"height=400px >
 </p>
