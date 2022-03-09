@@ -8,7 +8,7 @@ Um projeto real de Data Science, faz uma análise dos dados de empregados de uma
 
 E por fim disponibilizar recurso, para que a empresa consiga realizar a predição para verificar se um colaborador vai ou não deixar a empresa, com base em atributos, como comportamento e carga de trabalho, nível de satisfação, com a empresa, e resultados de performance.
 
-Tecnologias utilizadas
+### Tecnologias utilizadas
 
 Para resolver esse problema, foi construído uma solução completa para armazenamento, gestão e automatização de fluxo de dados, utilizando as tecnologias como:
 
@@ -25,9 +25,9 @@ Além de explorar um suite poderoso de tecnologias, para trabalhar com Análise 
 * SweetViz.
 * Streamlit.
 
-Depois da infraestrutura devidamente criada e configurada, levando em consideração o desafio proposto, foram criados e modelados atributos relevantes para a análise, utilizando fonte de dados de diversos arquivos, em formatos xlsx, json, e dados no sistema de banco de dados.
+Depois da infraestrutura devidamente criada e configurada, levando em consideração o desafio proposto, foram criados e modelados atributos relevantes para a análise, utilizando fonte de dados de diversos arquivos, em formatos **xlsx**, **json**, e **dados no sistema de banco de dados**.
 
-Análise dos Dados
+### Análise dos Dados
 
 Na etapa da análise exploratória de dados, foram descobertos vários insights importantes:
 
@@ -39,23 +39,23 @@ Na etapa da análise exploratória de dados, foram descobertos vários insights 
 
 Através da análise, foi possível desenvolver 3 grupos distintos, para agrupar colaboradores que deixam a empresa por comportamentos similares, são:
 
-Grupo 1 (Empregados insatisfeitos e trabalhadores): A satisfação foi inferior a 20, e a avaliação foram superiores a 75.
+**Grupo 1 (Empregados insatisfeitos e trabalhadores)**: A satisfação foi inferior a 20, e a avaliação foram superiores a 75.
 
 Que correspondem ao grupo de funcionários que deixam a empresa e eram bons trabalhadores.
 
-Grupo 2 (Empregados ruins e insatisfeitos): Satisfação entre 35 a 50, e as avaliações a baixo de 58.
+**Grupo 2 (Empregados ruins e insatisfeitos)**: Satisfação entre 35 a 50, e as avaliações a baixo de 58.
 
 Correspondem aos empregados que foram mal avaliados, e se sentiram mal para o trabalho.
 
-Grupo 3 (Empregados satisfeitos e trabalhadores): Representam os empregados ideais, que gostam do seu trabalho, e são bem avaliados por seu desempenho.
+**Grupo 3 (Empregados satisfeitos e trabalhadores)**: Representam os empregados ideais, que gostam do seu trabalho, e são bem avaliados por seu desempenho.
 
 Este grupo pode indicar os empregados que deixam a empresa, porque encontram outra oportunidade de trabalho.
 
-Machine Learning
+### Machine Learning
 
 Para estimativa, com o objetivo de predizer se um empregado vai deixar a empresa, foi implementado um modelo utilizando o algoritmo Gradient Boosting Classifier (mesmo não sendo o melhor modelo na análise, optei por usar esse), que atingiu uma performance de AUC em 0.80.
 
-Conclusão
+### Conclusão
 
 Através desse projeto, foi possível praticar e implementar conceitos importantes da Ciência, Engenharia de Dados, e propor uma solução para um problema latente e recorrente de qualquer empresa, que é a retenção de talentos, através da Análise de Dados de Recursos Humanos.
 
