@@ -1,5 +1,9 @@
 # Analise dos Dados de Recuso Humanos
 
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/Human-Resource-Analytics.jpeg" alt="RH"height=400px >
+</p>
+
 Um projeto real de Data Science, faz uma análise dos dados de empregados de uma empresa, que passou por todas as etapas, pude resolver o problema de como utilizar os dados para responder questões importantes, permitindo que uma empresa tenho conhecimento sobre seu funcionário:
 
 * Quais são os fatores que influenciam para um colaborador deixar a empresa?.
