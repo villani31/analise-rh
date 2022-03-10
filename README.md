@@ -71,3 +71,6 @@ Através desse projeto, foi possível praticar e implementar conceitos important
 
 Como um processo de melhoria contínua, podemos desenvolver a automação para executar não só o pipeline, mas a coleta e transformação de dados, e automatizando os passos das etapas de Machine Learning e Deploy.
 
+__________________________
+### Imagens do Projeto
+
