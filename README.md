@@ -108,3 +108,9 @@ __________________________
   <img src="https://github.com/villani31/analise-rh/blob/main/imagens/docker.png" alt="Docker" >
 </p>
 
+[Clique aqui para acessar os arquivos do projeto.](https://github.com/villani31/analise-rh/tree/main/notebooks)
+____________
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/thiagovillani)
+* [Portfólio de Projetos](https://github.com/villani31/Data_Science)
