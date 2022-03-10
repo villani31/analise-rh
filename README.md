@@ -76,5 +76,29 @@ Através desse projeto, foi possível praticar e implementar conceitos important
 Como um processo de melhoria contínua, podemos desenvolver a automação para executar não só o pipeline, mas a coleta e transformação de dados, e automatizando os passos das etapas de Machine Learning e Deploy.
 
 __________________________
-### Imagens do Projeto
+### Imagens das estapas do Projeto
+
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/airflow.png" alt="Airflow"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/desenv-app.png" alt="Desenv_App"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/minio.png" alt="Minio"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/mysql.png" alt="Mysql"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/streamlit-app.png" alt="Streamlit_app"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/docker.png" alt="Docker"height=400px >
+</p>
 
