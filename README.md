@@ -99,6 +99,6 @@ __________________________
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/docker.png" alt="Docker"height=400px >
+  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/docker.png" alt="Docker" >
 </p>
 
